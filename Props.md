@@ -3,7 +3,7 @@ Anotations and examples for React
 
 ## Propriedades (Props)
 
-props são propriedades que passamos para um componente, como se fossem atributos de uma tag HTML.
+Props são propriedades que passamos para um componente, como se fossem atributos de uma tag HTML.
 
 ```javascript
 
