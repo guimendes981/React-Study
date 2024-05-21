@@ -1,7 +1,5 @@
-# React-Study
-Anotations and examples for React
 
-## Propriedades (Props)
+# Propriedades (Props)
 
 Props são propriedades que passamos para um componente, como se fossem atributos de uma tag HTML.
 
