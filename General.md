@@ -13,18 +13,3 @@ const fetchData = async () => {
 }
 
 ```
-
-
-- Desenvolvimento de componentes web responsivos usando React + TSX, Material UI e Styled Components
-- Gerenciamento de tarefas com Kanban pelo ClickUp
-- Manutenção de páginas wordpress com Elementor
-- Manutenção e atualização de banco de dados postgresql e mysql
-- Otimização e refatoração de código com ESlint e Prettier
-
-
-- Participação em reuniões de planejamento e revisão de código
-- Desenvolvimento e manutenção de aplicações web usando React
-- Programação em equipe e revisão de código
-- Manutenção de sistemas mobile em React Native
-- Otimização SEO 
-
