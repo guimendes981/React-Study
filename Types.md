@@ -2,6 +2,63 @@
 
 A tipagem de uma linguagem de programação é a forma como ela trata os tipos de dados. Em React e TypeScript, podemos tipar os componentes, props e estados.
 
+### JS VS TS
+
+- JavaScript é uma linguagem de programação de alto nível, interpretada e orientada a objetos.
+- TypeScript é um superconjunto de JavaScript que adiciona tipagem estática à linguagem.
+
+#### Vantagens do TypeScript
+
+- Evita erros de tipagem
+- Facilita a manutenção do código
+- Melhora a produtividade
+- Facilita a leitura do código
+
+#### Exemplo de código em JavaScript
+
+```javascript
+
+const soma = (a, b) => {
+    return a + b
+}
+
+```
+
+#### Exemplo de código em TypeScript
+
+```typescript
+
+const soma = (a: number, b: number): number => {
+    return a + b
+}
+
+```
+
+### JSX VS TSX
+
+- JSX é a extensão de arquivo usada para arquivos JavaScript que contêm código React.
+- TSX é a extensão de arquivo usada para arquivos TypeScript que contêm código React.
+
+### Tipos primitivos
+
+- string
+- number
+- boolean
+- null
+- undefined
+
+### Tipos de objetos
+
+- object
+- array
+- function
+
+### Tipos de dados
+
+- any
+- void
+- never
+
 ### Tipagem de componentes
 
 ```typescript
