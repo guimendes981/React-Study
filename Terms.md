@@ -23,4 +23,3 @@ O Virtual DOM é uma representação em memória do DOM real. Ele é usado pelo 
 ### Renderização
 
 A renderização é o processo de transformar um componente React em elementos HTML que são exibidos na tela.
-
